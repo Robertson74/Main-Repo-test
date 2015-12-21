@@ -1,3 +1,3 @@
-[submodule "SubDirectoryTest"]
-	path = SubDirectoryTest
-	url = https://github.com/Robertson74/SubDirectoryTest.git
+[submodule "Sub-Repo-Test"]
+	path = Sub-Repo-Test
+	url = https://github.com/Robertson74/Sub-Repo-Test.git
